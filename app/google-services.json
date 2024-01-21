@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909666077166",
+    "project_id": "urbanwheel-5704a",
+    "storage_bucket": "urbanwheel-5704a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909666077166:android:8bf5f024e6df22c9a0e6ff",
+        "android_client_info": {
+          "package_name": "com.example.urbanwheel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909666077166-hlgd571oulj9r0aav8qsd76f38on0kom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGOnd9kbNtsx7QPFETpBpGz77G5viGTgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909666077166-hlgd571oulj9r0aav8qsd76f38on0kom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
